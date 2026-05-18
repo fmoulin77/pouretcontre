@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Deloynes
+title: pouretcontre
 email: fmoulin@parisnanterre.fr
-description: "Une édition numérique collaborative de la collection Deloynes"
-baseurl: "/deloynes" # the subpath of your site, e.g. /blog
+description: "Un séminaire en vue d'une édition collaborative du Pour et le contre de Prévost (1733-1740)"
+baseurl: "/pouretcontre" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: ledouxarchi
+
 
 # Build settings
 theme: minima
@@ -35,9 +35,9 @@ plugins:
 header_pages:
   - recherche.md
   - equipe.md
-  - introduction.md
-  - brochurex.md
-  - avis.md
+  - tome 1.md
+  - tome 2.md
+  - tome 3.md
   
 
 # rss
